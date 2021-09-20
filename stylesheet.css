@@ -10,6 +10,11 @@ body {
 #javascript{
       color:green;
 }
+h1 {
+      margin-left: 200px;
+      margin-right: 200px;
+}
 p {
-      margin-left: 150px;
+      margin-left: 200px;
+      margin-right: 200px;
 }
